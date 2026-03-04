@@ -8,7 +8,7 @@ Essa ferramenta se desenvolveu ao responder 5 peguntas básicas:
 - Quanto há de patrimonio acumulado?
 - Há dividendos mensais?
 
-O que foi desenvolvido?
+### O que foi desenvolvido?
 Com o auxilio do professor Felipe e as ferramentas disponiveis dentro da plataforma (Excel), pude desenvolver uma planilha automatizada para o controle de investimentos, organizando dados financeiros e utilizando formulas como PROCV E VF que visa calcular o valor futuro de investimento com base em uma taxa de juros constante. 
 
 ## 🧠 O que eu aprendi?
@@ -22,8 +22,7 @@ Com o auxilio do professor Felipe e as ferramentas disponiveis dentro da platafo
 
 
 Segue Planilha para Download ⬇️
-
-[Baixar Planilha de Controle de Investimentos](./Dados/Investiment_tool.xlsx)
+[Baixar Planilha de Controle de Investimentos](./Dados/Ferramenta_de_investimento.xlsx)
 
 
 OBS: Caso não consiga baixar a planilha, anexei 4 capturas de tela disponiveis na pasta de Images.
